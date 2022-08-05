@@ -3,6 +3,13 @@ package com.SparkLOWConstruct
 // Here in Broadcast shuffle is not involved.
 // Official Documentation: https://spark.apache.org/docs/latest/api/scala/org/apache/spark/broadcast/Broadcast.html
 
+
+// Note: The Broadcast variables are not sent to executors with sc.broadcast(variable) call instead,
+// they will be sent to executors when they are first used.
+
+// The broadcasted data is cache in serialized format and deserialized before executing each task
+
+
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext
 
