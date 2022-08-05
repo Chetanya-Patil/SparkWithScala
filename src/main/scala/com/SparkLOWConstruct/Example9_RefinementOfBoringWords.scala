@@ -1,6 +1,7 @@
 package com.SparkLOWConstruct
 
 // Here in Broadcast shuffle is not involved.
+// Official Documentation: https://spark.apache.org/docs/latest/api/scala/org/apache/spark/broadcast/Broadcast.html
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext
