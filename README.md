@@ -31,5 +31,7 @@ Optimization in Low-level Construct (RDD)
 - Adjusting shuffle partitions using coalesce and repartition whenever required.
 - File Format Selection
 - Serialization
+- Always prefer reduceByKey and never use groupByKey
+- Try to use mapPartitions() mostly in place of map()
 
 ------------------------------------------------------------------------------------------------------------------------
