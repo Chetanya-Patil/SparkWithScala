@@ -24,4 +24,12 @@ Spark RDD (Low-Level Construct)
 - Spark RDD - Accumulator Variables
 - Spark RDD - Convert RDD to Dataframe ✔
 
+Optimization in Low-level Construct (RDD)
+
+- Using Cache and Persist
+- Doing broadcast() as per scenario --- Which avoid shuffling
+- Adjusting shuffle partitions using coalesce and repartition whenever required.
+- File Format Selection
+- Serialization
+
 ------------------------------------------------------------------------------------------------------------------------
