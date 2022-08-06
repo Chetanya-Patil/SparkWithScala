@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct.CacheVsPersist
+package com.SparkLowConstruct.CacheVsPersist
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.storage.StorageLevel

@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct.SparkRDD
+package com.SparkLowConstruct.SparkRDD
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.rdd.RDD

@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct
+package com.SparkLowConstruct
 
 // Here in Broadcast shuffle is not involved.
 // Official Documentation: https://spark.apache.org/docs/latest/api/scala/org/apache/spark/broadcast/Broadcast.html

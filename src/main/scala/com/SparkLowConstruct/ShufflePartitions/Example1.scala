@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct.ShufflePartitions
+package com.SparkLowConstruct.ShufflePartitions
 
 import org.apache.spark.SparkContext
 

@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct
+package com.SparkLowConstruct
 
 import org.apache.spark.sql.SparkSession
 

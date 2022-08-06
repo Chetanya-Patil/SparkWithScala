@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct
+package com.SparkLowConstruct
 
 // Important links - official documentation
 // https://spark.apache.org/docs/latest/api/scala/org/apache/spark/rdd/index.html
