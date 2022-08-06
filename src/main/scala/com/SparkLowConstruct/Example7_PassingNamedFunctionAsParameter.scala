@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct
+package com.SparkLowConstruct
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext

@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct
+package com.SparkLowConstruct
 
 // Low-level Construct code in spark with RDD
 // Example - wordCount

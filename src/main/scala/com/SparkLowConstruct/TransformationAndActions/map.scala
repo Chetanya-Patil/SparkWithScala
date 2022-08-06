@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct.TransformationAndActions
+package com.SparkLowConstruct.TransformationAndActions
 
 
 import org.apache.log4j.{Level, Logger}

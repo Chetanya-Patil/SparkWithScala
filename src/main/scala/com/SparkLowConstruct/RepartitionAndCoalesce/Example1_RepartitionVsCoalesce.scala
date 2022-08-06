@@ -1,4 +1,4 @@
-package com.SparkLOWConstruct.RepartitionAndCoalesce
+package com.SparkLowConstruct.RepartitionAndCoalesce
 
 import org.apache.spark.SparkContext
 
