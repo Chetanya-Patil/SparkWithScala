@@ -1,0 +1,4 @@
+a	English	200
+b	Big Data	600
+c	Business	400
+d	Biology	300
