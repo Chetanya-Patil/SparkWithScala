@@ -1,3 +1,20 @@
 There are 2 kinds of Joins in Dataframe
    1. Simple Join (shuffle sort merge join)
    2. Broadcast Join (Optimize one)
+
+
+   Types of join in Spark
+      1. Inner Join
+      2. Cross Join
+      3. Outer Join (left,right)
+      4. Semi Join
+      5. Anti Join
+
+
+   Types of joins in SQL
+      1. Inner join
+      2. Cross join
+      3. Self Join
+      4. Left (outer) join
+      5. right (outer) join
+      6. Full outer join
