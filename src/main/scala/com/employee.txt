@@ -1,0 +1,5 @@
+1,Samir,Pune,Sales,10000
+2,Sham,Bangalore,Data Engineer,20000
+3,Ram,Jalgaon, Developer,40000
+4,Manish,Hyderabad,Recruiter,50000
+5,Gaurav,Chennai,Transport,25000
