@@ -35,7 +35,15 @@ object EasiestWayToWorkWithSpark {
     // while write we can also use saveAsTable to put our data in table form
 
     // We can also put it in spark metastore  -- spark.sql.warehouse.dir
+    // we can connect to metastore by providing value to to this above property
 
+/*
+      val warehouseLocation = " ....."
+
+     val spark  = SparkSession.builder()
+       .config("spark.sql.warehouse.dir",warehouseLocation)
+       .getOrCreate()
+*/
     // or make connection to external metastore by enableHiveMetastore property while creating SparkSession
 
     scala.io.StdIn.readLine()
