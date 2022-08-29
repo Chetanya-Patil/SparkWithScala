@@ -38,9 +38,9 @@ Optimization in Low-level Construct (RDD)
 
 Spark SQL - (High level construct)
 
-- Spark SQL - Create DataFrame
-- Spark SQL - Select Columns
-- Spark SQL - Add and Update Column (withColumn)
+- Spark SQL - Create DataFrame ✔
+- Spark SQL - Select Columns ✔
+- Spark SQL - Add and Update Column (withColumn) ✔
 - Spark SQL - Rename Nested Column
 - Spark SQL - Drop Column
 - Spark SQL - Where | Filter
