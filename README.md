@@ -43,7 +43,7 @@ Spark SQL - (High level construct)
 - Spark SQL - Add and Update Column (withColumn) ✔
 - Spark SQL - How to Change Column Type ✔ -- Using cast() in withColumn, select, selectExpr, sparksql
 - Spark SQL - Split Column to Multiple Columns ✔ --Using select, withColumn, spark sql
-- Spark SQL - Rename Nested Column
+- Spark SQL - Rename Nested Column ✔
 - Spark SQL - Drop Column
 - Spark SQL - Where | Filter
 - Spark SQL - When Otherwise
