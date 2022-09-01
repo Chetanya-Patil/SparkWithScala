@@ -1,4 +1,4 @@
-package com.SparkWithScala.SparkSQL_CreateDataFrame
+package com.SparkWithScala.SparkSQL_Transformations
 
 import org.apache.spark.sql.SparkSession
 
