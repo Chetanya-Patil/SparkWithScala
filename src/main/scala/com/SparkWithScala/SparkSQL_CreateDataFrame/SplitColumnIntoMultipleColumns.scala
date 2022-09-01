@@ -60,7 +60,7 @@ object SplitColumnIntoMultipleColumns {
     df.printSchema()
     df.show(false)
 
-
+    // Using select
     val df2 = df.select(split(col("name"),",").getItem(0).as("FirstName"),
       split(col("name"),",").getItem(1).as("MiddleName"),
       split(col("name"),",").getItem(2).as("LastName"))
