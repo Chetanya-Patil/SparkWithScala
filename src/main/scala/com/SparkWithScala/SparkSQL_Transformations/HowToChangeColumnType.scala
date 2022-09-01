@@ -1,4 +1,4 @@
-package com.SparkWithScala.SparkSQL_CreateDataFrame
+package com.SparkWithScala.SparkSQL_Transformations
 
 import org.apache.spark.sql.functions.{col, column}
 import org.apache.spark.sql.types.{DateType, DoubleType, IntegerType, StringType, StructField, StructType}
